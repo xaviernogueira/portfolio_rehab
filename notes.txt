@@ -1,2 +1,4 @@
 https://pypi.org/project/FundamentalAnalysis/ 
     - Uses this API (free API 7dead7d8a15b90bbadab8eeedfa59bd0) https://financialmodelingprep.com/developer/docs 
+    
+Economic Value Added (EVA) -- https://www.issgovernance.com/file/products/eva-measurement-formula.pdf
